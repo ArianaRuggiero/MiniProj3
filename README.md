@@ -1,4 +1,4 @@
-# MiniProj3
+# Mini Project 3
 
 #### Features
 - [x] let user enter a list of numbers and get mean,median,mode,variance
